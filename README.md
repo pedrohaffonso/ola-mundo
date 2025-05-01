@@ -1,2 +1,2 @@
-# ola-mundo
- pimeiro repositório versionado
+# Olá, mundo!
+ pimeiro repositório do curso de Git e Github
